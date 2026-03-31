@@ -1,5 +1,4 @@
 /data
-/notebooks
 .python-version
 .DS_Store
 *.pyc
